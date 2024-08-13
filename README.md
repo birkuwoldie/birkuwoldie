@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Birku Woldie (@birkuwoldie)
 
-![Welcome](https://github.com/birkuwoldie/netflix/blob/main/images/netflix.png)
+![Welcome](https://github.com/birkuwoldie/netflix/blob/main/images/banner.jpg)
 
 Welcome to my GitHub profile! I'm a passionate software developer dedicated to building efficient and scalable applications. Here’s a bit about me:
 
