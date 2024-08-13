@@ -29,17 +29,13 @@ Welcome to my GitHub profile! I'm a passionate software developer dedicated to b
   - Community-driven Tech Initiatives
 
 - 📫 **How to Reach Me:** 
-  <p align="center gap-4">
+  <p align="center" style="gap: 4px;">
     <a href="mailto:birkuwoldie98@gmail.com"><img src="https://img.shields.io/badge/-Email-%2312100E?style=flat&logo=gmail" alt="Email"></a>
     <a href="https://www.linkedin.com/in/birku-woldie"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/birku"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://github.com/birkuwoldie"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
-
----
-
-## 🔭 Featured Projects
-
-<p align="">
+n="">
   <a href="https://github.com/birkuwoldie/netflix">
     <img src="https://img.shields.io/badge/Project%201-Netflix%20Clone-black?style=for-the-badge&logo=github" alt="Netflix Clone" />
   </a>
