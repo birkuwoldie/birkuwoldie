@@ -80,7 +80,7 @@
 ✅ Implemented Redux Toolkit for efficient state management  
 
 #### 🌐 **Front-End Developer** @ [Risidio](https://www.risidio.com)
-`01/2024 - 06/2024` | London, UK (Remote)  
+`06/2024 - 10/2024` | London, UK (Remote)  
 ✅ Developed Web3 applications with React and TypeScript  
 ✅ Created NFT marketplace interfaces with Vite.js  
 ✅ Implemented responsive designs with Tailwind CSS and SCSS  
