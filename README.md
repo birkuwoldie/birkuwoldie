@@ -65,16 +65,16 @@
 
 ### 💼 Professional Journey
 
-#### 🚀 **Senior Software Developer** @ [Droga Consulting Services](https://www.droga.com)
+#### 🚀 **Senior Software Developer** @ [Droga Consulting Services](https://www.drogaconsulting.com)
 `04/2025 - Present` | Addis Ababa, Ethiopia  
 ✅ Leading development of enterprise applications using microservices architecture  
 ✅ Architecting scalable solutions with React, Next.js, and Django  
 ✅ Mentoring junior developers and conducting code reviews  
 ✅ Implementing CI/CD pipelines with GitHub Actions  
 
-#### 💻 **Front-End & Mobile Developer** @ [Perago Information Systems](https://www.peragois.com)
+#### 💻 **Front-End & Mobile Developer** @ [Perago Information Systems](https://www.peragosystems.com)
 `07/2023 - 04/2025` | Addis Ababa, Ethiopia  
-✅ Developed 5+ cross-platform mobile apps with React Native  
+✅ Developed cross-platform mobile apps with React Native  
 ✅ Built responsive UIs with Next.js, Mantine UI, and Tailwind CSS  
 ✅ Integrated REST APIs, Firebase, and Supabase for backend services  
 ✅ Implemented Redux Toolkit for efficient state management  
@@ -98,10 +98,10 @@
 
 #### 📚 **Bachelor's in Electronics and Communication Engineering**
 `National Institute of Technology (NIT) Andhra Pradesh, India` | `2019 - 2023`  
-🎖️ Awarded prestigious SII Scholarship for academic excellence  
 
 #### 🏫 **Electromechanical Engineering**
 `Addis Ababa Science and Technology University (AASTU), Ethiopia` | `2017 - 2019`  
+🎖️ Awarded prestigious SII Scholarship for academic excellence  
 
 ---
 
