@@ -106,33 +106,64 @@
 
 <div align="center">
 
-### **Development Metrics**
-| **Metric** | **Value** | **Trend** |
-|------------|-----------|-----------|
-| **Total Commits** | 1,200+ | 📈 |
-| **Repositories** | 45+ | 📁 |
-| **Stars Earned** | 150+ | ⭐ |
-| **Forks Created** | 80+ | 🍴 |
-| **Pull Requests** | 50+ | 🔄 |
-| **Languages Used** | 8+ | 💻 |
-
-</div>
+### **📈 Development Statistics**
 
 <div align="center">
 
-| **Profile Statistics** | **Top Languages** |
+| <img src="https://github-readme-stats.vercel.app/api?username=birkuwoldie&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true&hide=issues" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birkuwoldie&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&exclude_repo=github-readme-stats" width="300" /> |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=birkuwoldie&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birkuwoldie&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" width="300" /> |
 
 </div>
 
-<div align="center">
+### **📊 Activity Metrics**
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
 
-### **Contribution Activity**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=birkuwoldie&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff&height=300" width="90%" />
+![GitHub Streak](https://streak-stats.demolab.com?user=birkuwoldie&theme=dark&hide_border=true&background=0D1117&dates=FFFFFF&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF&card_width=500)
 
-### **Contribution Streak**
-![GitHub Streak](https://streak-stats.demolab.com?user=birkuwoldie&theme=dark&hide_border=true&background=0D1117&dates=FFFFFF&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=birkuwoldie&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff&height=250&custom_title=Contribution%20Activity)
+
+</div>
+
+### **⚡ Quick Stats**
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+
+<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
+  <div style="font-size: 24px;">📊</div>
+  <div style="font-weight: bold; color: #58a6ff;">Total Commits</div>
+  <div style="font-size: 18px;">1,200+</div>
+</div>
+
+<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
+  <div style="font-size: 24px;">📁</div>
+  <div style="font-weight: bold; color: #58a6ff;">Repositories</div>
+  <div style="font-size: 18px;">45+</div>
+</div>
+
+<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
+  <div style="font-size: 24px;">⭐</div>
+  <div style="font-weight: bold; color: #58a6ff;">Stars Earned</div>
+  <div style="font-size: 18px;">150+</div>
+</div>
+
+<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
+  <div style="font-size: 24px;">🍴</div>
+  <div style="font-weight: bold; color: #58a6ff;">Forks</div>
+  <div style="font-size: 18px;">80+</div>
+</div>
+
+<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
+  <div style="font-size: 24px;">🔄</div>
+  <div style="font-weight: bold; color: #58a6ff;">Pull Requests</div>
+  <div style="font-size: 18px;">50+</div>
+</div>
+
+<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
+  <div style="font-size: 24px;">💻</div>
+  <div style="font-weight: bold; color: #58a6ff;">Languages</div>
+  <div style="font-size: 18px;">8+</div>
+</div>
+
+</div>
 
 </div>
 
@@ -211,21 +242,45 @@
 
 ---
 
-## 🎓 **Education & Certifications**
+## 🎓 **Education & Learning Journey**
 
-### **Bachelor of Technology** in Electronics and Communication Engineering
-**National Institute of Technology (NIT) Andhra Pradesh** | `2019 – 2023`
-- **GPA:** 3.8/4.0
-- **Specialization:** Software Systems & IoT
-- **Awards:** SII Scholarship for Academic Excellence
+### **🏛️ Academic Background**
+<div align="center">
 
-### **Professional Certifications**
+| **Institution** | **Degree/Program** | **Duration** | **Location** |
+|-----------------|-------------------|--------------|--------------|
+| **National Institute of Technology (NIT) Andhra Pradesh** | Bachelor of Technology in Electronics and Communication Engineering | 2019 – 2023 | Andhra Pradesh, India |
+| **Addis Ababa Science and Technology University (AASTU)** | Electromechanical Engineering (Transfer) | 2017 – 2019 | Addis Ababa, Ethiopia |
+| **Gondar University** | STEM Program | July, 2015 – September, 2015 and  July, 2016 – September, 2016   | Gondar, Ethiopia |
+
+</div>
+
+### **🎖️ Academic Honors & Achievements**
+- **SII Scholarship Awardee** – Awarded prestigious scholarship for academic excellence in engineering
+- **Technical Projects** – Led multiple capstone projects with industry applications
+
+### **📚 Professional Certifications**
 <div align="center">
 
 [![Meta Backend Developer](https://img.shields.io/badge/Meta-Backend_Developer_Certificate-0466D6?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 [![React Native Specialization](https://img.shields.io/badge/Coursera-React_Native_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/react-native)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 [![Advanced React](https://img.shields.io/badge/Coursera-Advanced_React-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learn/advanced-react)
+[![Python for Data Science](https://img.shields.io/badge/IBM-Python_for_Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
+[![Django Certification](https://img.shields.io/badge/Django-Official_Certification-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+</div>
+
+### **📖 Continuous Learning**
+<div align="center">
+
+| **Area** | **Current Focus** | **Resources** |
+|----------|-------------------|---------------|
+| **Cloud Architecture** | AWS Solutions Architect, Microservices patterns | AWS Training, Architecture blogs |
+| **System Design** | Scalability patterns, Database optimization | DesignGurus.io, System Design Interview |
+| **Mobile Development** | React Native performance, iOS/Android native modules | React Native docs, Expo documentation |
+| **DevOps** | Kubernetes, Infrastructure as Code, Monitoring | KubeAcademy, DevOps Roadmap |
+| **Blockchain** | Web3 development, Smart contracts | Ethereum docs, Solidity tutorials |
 
 </div>
 
@@ -300,6 +355,3 @@
 
 ---
 
-
-
-**Ready to use!** Just copy and paste this entire code into your README.md file. All elements should work correctly on GitHub.
