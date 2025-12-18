@@ -57,10 +57,9 @@
 - 📊 Optimize application performance and scalability
 
 **Notable Achievements:**
-- ✅ Architected solutions serving **50,000+ monthly active users**
-- ✅ Improved team velocity by **40%** through effective mentoring
-- ✅ Reduced deployment time by **60%** with automated pipelines
-- ✅ Enhanced application performance by **30%** load time reduction
+- ✅ Improved team velocity through effective mentoring
+- ✅ Reduced deployment time with automated pipelines
+- ✅ Enhanced application performance load time reduction
 
 ---
 
@@ -76,10 +75,10 @@
 - 📦 Optimized application performance and bundle size
 
 **Notable Achievements:**
-- ✅ Built **5+ production mobile apps** with React Native/Expo
+- ✅ Built **production mobile apps** with React Native/Expo
 - ✅ Created dashboards serving **10,000+ monthly users**
-- ✅ Integrated **15+ REST APIs** with real-time capabilities
-- ✅ Reduced bundle size by **25%** through advanced optimization
+- ✅ Integrated **REST APIs** with real-time capabilities
+- ✅ Reduced bundle size through advanced optimization
 
 ---
 
@@ -92,7 +91,7 @@
 - ⛓️ Developed Web3 applications and NFT marketplaces
 - 🎭 Implemented responsive designs with modern CSS frameworks
 - 🔒 Worked on blockchain integration projects
-- 🤝 Collaborated with international remote team
+- 🤝 Collaborated with an international remote team
 
 **Notable Achievements:**
 - ✅ Built NFT marketplace interfaces handling **5,000+ monthly transactions**
@@ -124,55 +123,12 @@
 
 </div>
 
-### **⚡ Quick Stats**
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-
-<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
-  <div style="font-size: 24px;">📊</div>
-  <div style="font-weight: bold; color: #58a6ff;">Total Commits</div>
-  <div style="font-size: 18px;">1,200+</div>
-</div>
-
-<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
-  <div style="font-size: 24px;">📁</div>
-  <div style="font-weight: bold; color: #58a6ff;">Repositories</div>
-  <div style="font-size: 18px;">45+</div>
-</div>
-
-<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
-  <div style="font-size: 24px;">⭐</div>
-  <div style="font-weight: bold; color: #58a6ff;">Stars Earned</div>
-  <div style="font-size: 18px;">150+</div>
-</div>
-
-<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
-  <div style="font-size: 24px;">🍴</div>
-  <div style="font-weight: bold; color: #58a6ff;">Forks</div>
-  <div style="font-size: 18px;">80+</div>
-</div>
-
-<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
-  <div style="font-size: 24px;">🔄</div>
-  <div style="font-weight: bold; color: #58a6ff;">Pull Requests</div>
-  <div style="font-size: 18px;">50+</div>
-</div>
-
-<div align="center" style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; min-width: 150px;">
-  <div style="font-size: 24px;">💻</div>
-  <div style="font-weight: bold; color: #58a6ff;">Languages</div>
-  <div style="font-size: 18px;">8+</div>
-</div>
-
-</div>
-
-</div>
-
 ---
 
 ## 🏆 **Featured Projects**
 
 ### **ERP Manufacturing System** 🏭
-*Enterprise Resource Planning for manufacturing sector*
+*Enterprise Resource Planning for the manufacturing sector*
 ```bash
 # Tech Stack
 ├── Frontend: Next.js 14, TypeScript, Tailwind CSS
@@ -181,12 +137,12 @@
 ├── DevOps: Docker, GitHub Actions, AWS
 └── Features: Real-time analytics, Inventory management, Multi-location support
 ```
-**Impact:** Streamlined operations for **50+ manufacturing units**, reducing manual work by **70%**
+**Impact:** Streamlined operations for  manufacturing units, reducing manual work 
 
 ---
 
-### **Telemedicine Healthcare Platform** 🏥
-*Secure video consultation platform with EHR integration*
+### **Smart School Management System** 🎓
+*Unified platform for academic, administrative, and financial operations*
 ```bash
 # Tech Stack
 ├── Mobile: React Native, Expo, WebRTC
@@ -203,10 +159,10 @@
 *Scalable multi-vendor marketplace*
 ```bash
 # Tech Stack
-├── Frontend: Vue.js 3, Pinia, Vite
+├── Frontend: React, Nextjs, Material UI, TailwindCSS
 ├── Backend: Django REST Framework, Celery
 ├── Database: PostgreSQL, Elasticsearch
-├── Payment: Stripe, PayPal integration
+├── Payment: integration
 └── Features: Real-time notifications, Recommendation engine, Analytics
 ```
 **Status:** **5,000+ monthly active users**, **200+ registered vendors**
@@ -302,7 +258,7 @@
 
 ## 🤝 **Let's Collaborate**
 
-<div align="center">
+<div align="">
 
 ### **I'm Currently Interested In:**
 - 🚀 **Senior Full-Stack** development opportunities
