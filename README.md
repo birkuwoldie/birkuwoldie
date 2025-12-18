@@ -116,8 +116,9 @@
 
 ### **📊 Activity Metrics**
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=birkuwoldie)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=birkuwoldie&theme=dark&hide_border=true&background=0D1117&dates=FFFFFF&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF&card_width=500)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=birkuwoldie&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff&height=250&custom_title=Contribution%20Activity)
 
