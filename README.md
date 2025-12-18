@@ -126,6 +126,7 @@
 ---
 
 ## 🏆 **Featured Projects**
+<div align="left" >
 
 ### **ERP Manufacturing System** 🏭
 *Enterprise Resource Planning for the manufacturing sector*
@@ -168,7 +169,7 @@
 **Status:** **5,000+ monthly active users**, **200+ registered vendors**
 
 ---
-
+</div>
 ## 🛠️ **Technical Toolkit**
 
 <div align="center">
