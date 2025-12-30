@@ -243,41 +243,35 @@
 </div>
 
 ---
+## 📈 Development Philosophy
 
-## 📈 **Development Philosophy**
-<div align="center">
-> "I believe in building software that not only solves immediate problems but also scales gracefully with business growth. My approach combines **technical excellence**, **user-centric design**, and **agile methodologies** to deliver exceptional value."
+I build software with a long-term mindset — focusing not only on solving today’s problems, but on creating systems that **scale, remain maintainable, and deliver real business value**.
 
-### **Engineering Principles:**
-- ✅ **Test-Driven Development** for robust, maintainable code
-- 🔄 **Continuous Integration/Deployment** for rapid iteration
-- 📱 **Mobile-First & Responsive Design** for maximum accessibility
-- 🔒 **Security-First Approach** with data protection at core
-- 📊 **Performance Optimization** for superior user experience
-- 🤝 **Collaborative Development** with code reviews and pair programming
+My work balances **engineering rigor**, **product thinking**, and **user experience**, ensuring that solutions are both technically sound and genuinely useful.
 
----
-</div>
-
-## 🤝 **Let's Collaborate**
-
-<div align="center">
-
-### **I'm Currently Interested In:**
-- 🚀 **Senior Full-Stack** development opportunities
-- 💡 **Technical Consulting** on architecture and scalability
-- 🤝 **Open Source Contributions** to meaningful projects
-- 🎯 **Mentoring** aspiring developers
-- 🌟 **Speaking** at tech conferences and meetups
-
-### **Get In Touch:**
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:birkuwoldie98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birkutelele/)
-[![Schedule Call](https://img.shields.io/badge/📅_Schedule_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/birku)
-
-</div>
+### Engineering Principles
+- **Test-Driven Development** to ensure reliability and maintainability
+- **CI/CD pipelines** for fast, confident iteration
+- **Mobile-first & responsive design** for real-world usage
+- **Security by design**, not as an afterthought
+- **Performance-focused development** for scalable systems
+- **Collaborative workflows** with code reviews and pair programming
 
 ---
+
+## 🤝 Let’s Collaborate
+
+I’m currently interested in:
+- **Senior Full-Stack Engineering** roles
+- **System architecture & scalability consulting**
+- **Meaningful open-source contributions**
+- **Mentorship and technical leadership**
+- **Speaking at developer events and meetups**
+
+### Get in touch
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:birkuwoldie98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birkutelele/)
+[![Calendar](https://img.shields.io/badge/Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white)](https://cal.com/birku)
 
 ## 📞 **Contact Information**
 
