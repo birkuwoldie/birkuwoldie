@@ -260,7 +260,7 @@
 
 ## 🤝 **Let's Collaborate**
 
-<div align="">
+<div align="space-between">
 
 ### **I'm Currently Interested In:**
 - 🚀 **Senior Full-Stack** development opportunities
