@@ -242,36 +242,38 @@
 
 </div>
 
----
 ## 📈 Development Philosophy
 
-I build software with a long-term mindset — focusing not only on solving today’s problems, but on creating systems that **scale, remain maintainable, and deliver real business value**.
-
-My work balances **engineering rigor**, **product thinking**, and **user experience**, ensuring that solutions are both technically sound and genuinely useful.
+I build software with a long-term mindset — focusing not only on solving today’s problems, but on creating systems that scale and remain maintainable.
 
 ### Engineering Principles
-- **Test-Driven Development** to ensure reliability and maintainability
-- **CI/CD pipelines** for fast, confident iteration
-- **Mobile-first & responsive design** for real-world usage
-- **Security by design**, not as an afterthought
-- **Performance-focused development** for scalable systems
-- **Collaborative workflows** with code reviews and pair programming
+- Test-Driven Development
+- CI/CD pipelines
+- Mobile-first & responsive design
+- Security by design
+- Performance-focused development
+- Collaborative workflows
 
 ---
 
 ## 🤝 Let’s Collaborate
 
 I’m currently interested in:
-- **Senior Full-Stack Engineering** roles
-- **System architecture & scalability consulting**
-- **Meaningful open-source contributions**
-- **Mentorship and technical leadership**
-- **Speaking at developer events and meetups**
+- Senior Full-Stack Engineering roles
+- Architecture & scalability consulting
+- Open-source contributions
+- Mentorship
+- Speaking engagements
 
 ### Get in touch
+
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:birkuwoldie98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birkutelele/)
 [![Calendar](https://img.shields.io/badge/Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white)](https://cal.com/birku)
+
+</div>
 
 ## 📞 **Contact Information**
 
