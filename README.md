@@ -245,7 +245,7 @@
 ---
 
 ## 📈 **Development Philosophy**
-
+<div align="center">
 > "I believe in building software that not only solves immediate problems but also scales gracefully with business growth. My approach combines **technical excellence**, **user-centric design**, and **agile methodologies** to deliver exceptional value."
 
 ### **Engineering Principles:**
@@ -257,10 +257,11 @@
 - 🤝 **Collaborative Development** with code reviews and pair programming
 
 ---
+</div>
 
 ## 🤝 **Let's Collaborate**
 
-<div align="space-between">
+<div align="center">
 
 ### **I'm Currently Interested In:**
 - 🚀 **Senior Full-Stack** development opportunities
