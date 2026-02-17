@@ -46,7 +46,7 @@
 ## 💼 **Professional Experience**
 
 ### **Senior Software Developer** | [Droga Consulting Services](https://www.drogaconsulting.com)
-`April 2025 – Present` | *Addis Ababa, Ethiopia*
+`April 2025 – Dec 2025` | *Addis Ababa, Ethiopia*
 
 > **Enterprise Application Development & Technical Leadership**
 
@@ -83,7 +83,7 @@
 ---
 
 ### **Front-End Developer** | [Risidio](https://www.risidio.com)
-`June 2024 – October 2024` | *London, UK (Remote)*
+`June 2024 – February 2025` | *London, UK (Remote)*
 
 > **Web3 & Blockchain Development**
 
