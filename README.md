@@ -85,7 +85,7 @@
 ### **Front-End Developer** | [Risidio](https://www.risidio.com)
 `June 2024 – February 2025` | *London, UK (Remote)*
 
-> **Web3 & Blockchain Development**
+> **Web3 & Frontend Development**
 
 **Key Responsibilities:**
 - ⛓️ Developed Web3 applications and NFT marketplaces
