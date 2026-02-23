@@ -1,5 +1,5 @@
 # **Birku Woldie** ⚡
-### **Senior Full Stack Developer** | React Specialist | Next.js | Django |React Native|RAG
+### **Full Stack Developer** |React |Next.js |Django |React Native |RAG |AI Agents
 
 ---
 
