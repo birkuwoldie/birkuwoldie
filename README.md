@@ -1,5 +1,5 @@
 # **Birku Woldie** ⚡
-### **Full Stack Developer** |React |Next.js |Django |React Native |RAG |AI Agents
+### **Full Stack Developer** | React | Next.js | Django | React Native | RAG | AI Agents
 
 ---
 
@@ -46,7 +46,7 @@
 ## 💼 **Professional Experience**
 
 ### **Senior Software Developer** | [Droga Consulting Services](https://www.drogaconsulting.com)
-`April 2025 – Dec 2025` | *Addis Ababa, Ethiopia*
+`January 2024 – Present` | *Addis Ababa, Ethiopia*
 
 > **Enterprise Application Development & Technical Leadership**
 
@@ -58,13 +58,13 @@
 
 **Notable Achievements:**
 - ✅ Improved team velocity through effective mentoring
-- ✅ Reduced deployment time with automated pipelines
-- ✅ Enhanced application performance load time reduction
+- ✅ Reduced deployment time by 40% with automated pipelines
+- ✅ Enhanced application performance with 30% load time reduction
 
 ---
 
 ### **Front-End & Mobile Developer** | [Perago Information Systems](https://www.peragosystems.com)
-`July 2023 – April 2025` | *Addis Ababa, Ethiopia*
+`July 2023 – December 2023` | *Addis Ababa, Ethiopia*
 
 > **Cross-Platform Development & UI Engineering**
 
@@ -78,12 +78,12 @@
 - ✅ Built **production mobile apps** with React Native/Expo
 - ✅ Created dashboards serving **10,000+ monthly users**
 - ✅ Integrated **REST APIs** with real-time capabilities
-- ✅ Reduced bundle size through advanced optimization
+- ✅ Reduced bundle size by 25% through advanced optimization
 
 ---
 
 ### **Front-End Developer** | [Risidio](https://www.risidio.com)
-`June 2024 – February 2026` | *London, UK (Remote)*
+`June 2022 – May 2023` | *London, UK (Remote)*
 
 > **Web3 & Frontend Development**
 
@@ -107,67 +107,55 @@
 
 ### **📈 Development Statistics**
 
-<div align="center">
-
 | <img src="https://github-readme-stats.vercel.app/api?username=birkuwoldie&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true&hide=issues" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birkuwoldie&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&exclude_repo=github-readme-stats" width="300" /> |
 |:---:|:---:|
 
-</div>
+### **📊 Contribution Activity**
 
-### **📊 Activity Metrics**
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birkuwoldie&show_icons=true&theme=dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=birkuwoldie&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff&height=250&custom_title=Contribution%20Activity)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=birkuwoldie&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff&height=250&custom_title=Contribution%20Activity" width="800" />
 
 </div>
 
 ---
 
 ## 🏆 **Featured Projects**
-<div align="left" >
 
 ### **ERP Manufacturing System** 🏭
 *Enterprise Resource Planning for the manufacturing sector*
-```bash
-# Tech Stack
-├── Frontend: Next.js 14, TypeScript, Tailwind CSS
-├── Backend: Django, Django REST Framework
-├── Database: PostgreSQL, Redis
-├── DevOps: Docker, GitHub Actions, AWS
-└── Features: Real-time analytics, Inventory management, Multi-location support
-```
+
+**Tech Stack:**
+- **Frontend:** Next.js 14, TypeScript, Tailwind CSS
+- **Backend:** Django, Django REST Framework
+- **Database:** PostgreSQL, Redis
+- **DevOps:** Docker, GitHub Actions, AWS
+- **Features:** Real-time analytics, Inventory management, Multi-location support
 
 ---
 
 ### **Smart School Management System** 🎓
 *Unified platform for academic, administrative, and financial operations*
-```bash
-# Tech Stack
-├── Mobile: React Native, Expo, WebRTC
-├── Backend: Python, Django, Django Rest framework, Socket.io
-├── Database: PostgreSQL, Firebase, Supabase
-├── Features: Video calls, EHR management, Appointment scheduling
-└── Security: HIPAA compliant, End-to-end encryption
-```
+
+**Tech Stack:**
+- **Mobile:** React Native, Expo, WebRTC
+- **Backend:** Python, Django, Django REST framework, Socket.io
+- **Database:** PostgreSQL, Firebase, Supabase
+- **Features:** Video calls, EHR management, Appointment scheduling
+- **Security:** HIPAA compliant, End-to-end encryption
 
 ---
 
 ### **E-commerce Marketplace** 🛒
 *Scalable multi-vendor marketplace*
-```bash
-# Tech Stack
-├── Frontend: React, NextJS, Material UI, TailwindCSS
-├── Backend: Django REST Framework, Celery
-├── Database: PostgreSQL, Elasticsearch
-├── Payment: integration
-└── Features: Real-time notifications, Recommendation engine, Analytics
-```
+
+**Tech Stack:**
+- **Frontend:** React, Next.js, Material UI, TailwindCSS
+- **Backend:** Django REST Framework, Celery
+- **Database:** PostgreSQL, Elasticsearch
+- **Payment:** Stripe integration
+- **Features:** Real-time notifications, Recommendation engine, Analytics
 
 ---
-</div>
+
 ## 🛠️ **Technical Toolkit**
 
 <div align="center">
@@ -200,15 +188,12 @@
 ## 🎓 **Education & Learning Journey**
 
 ### **🏛️ Academic Background**
-<div align="center">
 
 | **Institution** | **Degree/Program** | **Duration** | **Location** |
 |-----------------|-------------------|--------------|--------------|
 | **National Institute of Technology (NIT) Andhra Pradesh** | Bachelor of Technology in Electronics and Communication Engineering | 2019 – 2023 | Andhra Pradesh, India |
 | **Addis Ababa Science and Technology University (AASTU)** | Electromechanical Engineering (Transfer) | 2017 – 2019 | Addis Ababa, Ethiopia |
-| **Gondar University** | STEM Program | July, 2015 – September, 2015 and  July, 2016 – September, 2016   | Gondar, Ethiopia |
-
-</div>
+| **Gondar University** | STEM Program | 2015 – 2016 | Gondar, Ethiopia |
 
 ### **🎖️ Academic Honors & Achievements**
 - **SII Scholarship Awardee** – Awarded prestigious scholarship for academic excellence in engineering
@@ -226,63 +211,42 @@
 
 </div>
 
-### **📖 Continuous Learning**
-<div align="center">
+---
 
-| **Area** | **Current Focus** | **Resources** |
-|----------|-------------------|---------------|
-| **Cloud Architecture** | AWS Solutions Architect, Microservices patterns | AWS Training, Architecture blogs |
-| **System Design** | Scalability patterns, Database optimization | DesignGurus.io, System Design Interview |
-| **Mobile Development** | React Native performance, iOS/Android native modules | React Native docs, Expo documentation |
-| **DevOps** | Kubernetes, Infrastructure as Code, Monitoring | KubeAcademy, DevOps Roadmap |
-| **Blockchain** | Web3 development, Smart contracts | Ethereum docs, Solidity tutorials |
+## 📈 **Development Philosophy**
 
-</div>
+I build software with a long-term mindset — focusing not only on solving today's problems, but on creating systems that scale and remain maintainable.
 
-## 📈 Development Philosophy
-
-I build software with a long-term mindset — focusing not only on solving today’s problems, but on creating systems that scale and remain maintainable.
-
-### Engineering Principles
-- Test-Driven Development
-- CI/CD pipelines
-- Mobile-first & responsive design
-- Security by design
-- Performance-focused development
-- Collaborative workflows
+### **Engineering Principles**
+- ✅ Test-Driven Development
+- ✅ CI/CD pipelines
+- ✅ Mobile-first & responsive design
+- ✅ Security by design
+- ✅ Performance-focused development
+- ✅ Collaborative workflows
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 **Let's Collaborate**
 
-I’m currently interested in:
+I'm currently interested in:
 - Senior Full-Stack Engineering roles
 - Architecture & scalability consulting
 - Open-source contributions
 - Mentorship
 - Speaking engagements
 
-### Get in touch
+---
+
+## 📞 **Get in Touch**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:birkuwoldie98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birkutelele/)
-[![Calendar](https://img.shields.io/badge/Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white)](https://cal.com/birku)
-
-</div>
-
-## 📞 **Contact Information**
-
-<div align="center">
-
-| **Channel** | **Details** | **Best For** |
-|-------------|-------------|--------------|
-| **📧 Email** | birkuwoldie98@gmail.com | Project inquiries, Job opportunities |
-| **💼 LinkedIn** | [linkedin.com/in/birkutelele](https://www.linkedin.com/in/birkutelele/) | Professional networking |
-| **📱 WhatsApp** | +251 960 663 713 | Quick questions, Instant messaging |
-| **🐙 GitHub** | [github.com/birkuwoldie](https://github.com/birkuwoldie) | Code reviews, Open source |
-| **🌐 Portfolio** | [birku.dev](https://birku.dev) | View my work, Case studies |
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:birkuwoldie98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birkutelele/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/251960663713)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://birku.dev)
+[![Calendar](https://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/birku)
 
 </div>
 
@@ -291,19 +255,13 @@ I’m currently interested in:
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=birkuwoldie&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
-![Last Updated](https://img.shields.io/badge/🔄_Last_Updated-December_2024-2EA043?style=flat-square)
+![Last Updated](https://img.shields.io/badge/🔄_Last_Updated-March_2026-2EA043?style=flat-square)
 
 **"Transforming ideas into scalable digital solutions"** ✨
 
 ---
 
 ### **📌 Quick Links**
-[![Projects](https://img.shields.io/badge/📁_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/birkuwoldie?tab=repositories)
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://birku.dev/resume.pdf)
-[![Blog](https://img.shields.io/badge/📝_Read_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://birku.dev/blog)
-[![Contact](https://img.shields.io/badge/✉️_Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](mailto:birkuwoldie98@gmail.com)
+[![GitHub Repos](https://img.shields.io/badge/📁_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/birkuwoldie?tab=repositories)
 
 </div>
-
----
-
