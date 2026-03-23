@@ -24,7 +24,7 @@
   </p>
 
 <p>
-  <i>Passionate full-stack developer with 3+ years of experience building enterprise-grade applications. Specializing in React ecosystem, cloud architecture, and team leadership. Currently crafting digital solutions at Droga Consulting Services.</i>
+  <i>Passionate full-stack developer with 3+ years of experience building enterprise-grade applications. Specializing in React ecosystem, cloud architecture, and team leadership. Currently seeking new challenges and opportunities to build impactful software.</i>
 </p>
 
 </div>
