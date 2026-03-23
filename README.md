@@ -148,8 +148,8 @@
 ```bash
 # Tech Stack
 ├── Mobile: React Native, Expo, WebRTC
-├── Backend: Node.js, Express, Socket.io
-├── Database: MongoDB, Redis
+├── Backend: Python, Django, Django Rest framework, Socket.io
+├── Database: PostgreSQL, Firebase, Supabase
 ├── Features: Video calls, EHR management, Appointment scheduling
 └── Security: HIPAA compliant, End-to-end encryption
 ```
@@ -161,7 +161,7 @@
 *Scalable multi-vendor marketplace*
 ```bash
 # Tech Stack
-├── Frontend: React, Nextjs, Material UI, TailwindCSS
+├── Frontend: React, NextJS, Material UI, TailwindCSS
 ├── Backend: Django REST Framework, Celery
 ├── Database: PostgreSQL, Elasticsearch
 ├── Payment: integration
