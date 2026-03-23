@@ -83,7 +83,7 @@
 ---
 
 ### **Front-End Developer** | [Risidio](https://www.risidio.com)
-`June 2024 – February 2025` | *London, UK (Remote)*
+`June 2024 – February 2026` | *London, UK (Remote)*
 
 > **Web3 & Frontend Development**
 
