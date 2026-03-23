@@ -46,7 +46,7 @@
 ## 💼 **Professional Experience**
 
 ### **Senior Software Developer** | [Droga Consulting Services](https://www.drogaconsulting.com)
-`January 2024 – Present` | *Addis Ababa, Ethiopia*
+`April 2025 – December 2025` | *Addis Ababa, Ethiopia*
 
 > **Enterprise Application Development & Technical Leadership**
 
@@ -64,7 +64,7 @@
 ---
 
 ### **Front-End & Mobile Developer** | [Perago Information Systems](https://www.peragosystems.com)
-`July 2023 – December 2023` | *Addis Ababa, Ethiopia*
+`July 2023 – April 2025` | *Addis Ababa, Ethiopia*
 
 > **Cross-Platform Development & UI Engineering**
 
@@ -76,14 +76,13 @@
 
 **Notable Achievements:**
 - ✅ Built **production mobile apps** with React Native/Expo
-- ✅ Created dashboards serving **10,000+ monthly users**
 - ✅ Integrated **REST APIs** with real-time capabilities
 - ✅ Reduced bundle size by 25% through advanced optimization
 
 ---
 
 ### **Front-End Developer** | [Risidio](https://www.risidio.com)
-`June 2022 – May 2023` | *London, UK (Remote)*
+`June 2024 –  Feburary 2026` | *London, UK (Remote)*
 
 > **Web3 & Frontend Development**
 
