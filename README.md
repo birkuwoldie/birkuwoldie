@@ -139,7 +139,6 @@
 ├── DevOps: Docker, GitHub Actions, AWS
 └── Features: Real-time analytics, Inventory management, Multi-location support
 ```
-**Impact:** Streamlined operations for  manufacturing units, reducing manual work 
 
 ---
 
@@ -153,7 +152,6 @@
 ├── Features: Video calls, EHR management, Appointment scheduling
 └── Security: HIPAA compliant, End-to-end encryption
 ```
-**Impact:** Served **10,000+ patients** across **3 regions**, reducing consultation wait time by **80%**
 
 ---
 
@@ -167,7 +165,6 @@
 ├── Payment: integration
 └── Features: Real-time notifications, Recommendation engine, Analytics
 ```
-**Status:** **5,000+ monthly active users**, **200+ registered vendors**
 
 ---
 </div>
