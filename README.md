@@ -149,8 +149,7 @@
 **Tech Stack:**
 - **Frontend:** React, Next.js, Material UI, TailwindCSS
 - **Backend:** Django REST Framework, Celery
-- **Database:** PostgreSQL, Elasticsearch
-- **Payment:** Stripe integration
+- **Database:** PostgreSQL, Elasticsearch, SQLite, 
 - **Features:** Real-time notifications, Recommendation engine, Analytics
 
 ---
