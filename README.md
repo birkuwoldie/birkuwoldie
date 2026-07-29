@@ -37,7 +37,7 @@
 
 | **Frontend Development** | **Backend Development** | **Mobile Development** | **DevOps & Cloud** |
 |--------------------------|-------------------------|------------------------|--------------------|
-| • React & Next.js<br>• TypeScript<br>• State Management<br>• Performance Opt.<br>• Testing (Jest/Cypress) | • Python/Django<br>• Node.js/Express<br>• REST/GraphQL APIs<br>• Database Design<br>• Microservices | • React Native<br>• Expo<br>• Flutter<br>• Mobile CI/CD<br>• App Store Deployment | • Docker & Kubernetes<br>• AWS/Azure<br>• CI/CD Pipelines<br>• Monitoring & Logging<br>• Infrastructure as Code |
+| • React & Next.js<br>• TypeScript<br>• State Management<br>• Performance Opt.<br>• Testing (Jest/Cypress) | • Python/Django<br>• Node.js/Express<br>• REST/GraphQL APIs<br>• Database Design<br>• Microservices | • React Native<br>• Expo<br>• Mobile CI/CD<br>• App Store Deployment | • Docker & Kubernetes<br>• CI/CD Pipelines<br>• Monitoring & Logging<br>• Infrastructure as Code |
 
 </div>
 
