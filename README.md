@@ -359,18 +359,14 @@
 
 ### **🏛️ Academic Background**
 
-| **Institution** | **Degree/Program** | **Duration** | **Location** | **Achievements** |
+| **Institution** | **Degree/Program** | **Duration** | **Location** | 
 |-----------------|-------------------|--------------|--------------|------------------|
-| **National Institute of Technology (NIT) Andhra Pradesh** | Bachelor of Technology in Electronics and Communication Engineering | 2019 – 2023 | Andhra Pradesh, India | CGPA: 8.5/10, Dean's List |
-| **Addis Ababa Science and Technology University (AASTU)** | Electromechanical Engineering (Transfer) | 2017 – 2019 | Addis Ababa, Ethiopia | Merit Scholarship |
+| **National Institute of Technology (NIT) Andhra Pradesh** | Bachelor of Technology in Electronics and Communication Engineering | 2019 – 2023 | Andhra Pradesh, India | CGPA: 8.5/10, Dean's |
+| **Addis Ababa Science and Technology University (AASTU)** | Electromechanical Engineering (Transfer) | 2017 – 2019 | Addis Ababa, Ethiopia |
 
 ### **🎖️ Academic Honors & Achievements**
 - **SII Scholarship Awardee** – Awarded prestigious scholarship for academic excellence in engineering (Full tuition + living expenses)
-- **Dean's List** – Consistently ranked in top 5% of class
 - **Technical Projects** – Led multiple capstone projects with industry applications
-- **Research Publications** – Published paper on IoT-based smart agriculture systems
-- **Hackathon Winner** – First place in National Engineering Hackathon 2022
-- **Best Student Award** – Recognized for outstanding academic performance
 
 ### **📚 Professional Certifications**
 
