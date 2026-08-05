@@ -109,6 +109,23 @@
 
 ## 💼 **Professional Experience**
 
+
+### **Senior Software Developer** | [OneTap Technologies](https://www.onetap.et)
+`February 2026 – Present` | *Addis Ababa, Ethiopia*
+
+> **Fintech Application Development & Technical Leadership**
+
+**Key Responsibilities:**
+- 🏗️ Lead architecture design for fintech applications using microservices architecture
+- 💳 Develop and implement secure payment processing systems and digital wallet solutions
+- 🔄 Implement CI/CD pipelines automating deployment processes
+- 📊 Optimize application performance and scalability for financial transactions
+- 🔒 Ensure PCI compliance and implement robust security measures
+- 📝 Create technical documentation and architecture diagrams
+- 🔍 Perform system analysis and optimization
+- 🤝 Collaborate with cross-functional teams including product, design, and compliance
+
+
 ### **Senior Software Developer** | [Droga Consulting Services](https://www.drogaconsulting.com)
 `April 2025 – December 2025` | *Addis Ababa, Ethiopia*
 
@@ -119,19 +136,10 @@
 - 👨‍🏫 Mentor junior developers and establish engineering best practices
 - 🔄 Implement CI/CD pipelines automating deployment processes
 - 📊 Optimize application performance and scalability
-- 🎯 Conduct code reviews and technical interviews
+- 🎯 Conduct code reviews and technical assistance
 - 📝 Create technical documentation and architecture diagrams
 - 🔍 Perform system analysis and optimization
 - 🤝 Collaborate with cross-functional teams
-
-**Notable Achievements:**
-- ✅ Improved team velocity through effective mentoring
-- ✅ Reduced deployment time by 40% with automated pipelines
-- ✅ Enhanced application performance with 30% load time reduction
-- ✅ Implemented comprehensive testing strategies
-- ✅ Delivered projects 25% ahead of schedule
-- ✅ Increased code coverage from 60% to 85%
-- ✅ Reduced production bugs by 50%
 
 ---
 
@@ -150,15 +158,6 @@
 - 🔄 Implemented real-time features using WebSocket
 - 🎯 Collaborated with product designers and stakeholders
 
-**Notable Achievements:**
-- ✅ Built **production mobile apps** with React Native/Expo serving 1000+ users
-- ✅ Integrated **REST APIs** with real-time capabilities
-- ✅ Reduced bundle size by 25% through advanced optimization
-- ✅ Implemented comprehensive error handling and logging
-- ✅ Created reusable component library
-- ✅ Improved app startup time by 35%
-- ✅ Successfully launched 3 mobile apps on Play Store
-
 ---
 
 ### **Front-End Developer** | [Risidio](https://www.risidio.com)
@@ -174,16 +173,6 @@
 - 🔐 Implemented secure wallet connections
 - 📊 Built analytics dashboards for NFT metrics
 - 🚀 Optimized frontend performance for Web3 apps
-
-**Notable Achievements:**
-- ✅ Built NFT marketplace interfaces handling **5,000+ monthly transactions**
-- ✅ Implemented responsive designs across **all device sizes**
-- ✅ Contributed to **blockchain integration** projects
-- ✅ Enhanced **user experience** with modern UI patterns
-- ✅ Reduced page load time by 40%
-- ✅ Increased user engagement by 60%
-- ✅ Implemented cross-chain compatibility
-
 ---
 
 ### **Freelance Full Stack Developer** | Self-Employed
@@ -198,14 +187,6 @@
 - 📚 Stayed updated with latest technologies
 - 💰 Handled client communication and project scoping
 - 🔧 Provided maintenance and support
-
-**Notable Achievements:**
-- ✅ Built e-commerce platform for 50+ vendors
-- ✅ Created real-time chat applications
-- ✅ Developed inventory management systems
-- ✅ Delivered 15+ projects with 95% client satisfaction
-- ✅ Generated $100K+ revenue through freelance work
-- ✅ Maintained 4.9/5 rating on freelance platforms
 
 ---
 
@@ -256,11 +237,6 @@
 - **DevOps:** Docker, GitHub Actions, AWS (EC2, S3, RDS)
 - **Features:** Real-time analytics, Inventory management, Multi-location support, Production planning, Financial reporting
 
-**Impact:**
-- ✅ Served 500+ concurrent users
-- ✅ Reduced inventory errors by 80%
-- ✅ Improved production efficiency by 35%
-- ✅ Generated $2M+ in client revenue
 
 ---
 
@@ -276,11 +252,6 @@
 - **Features:** Video calls, EHR management, Appointment scheduling
 - **Security:** HIPAA compliant, End-to-end encryption, JWT authentication
 
-**Impact:**
-- ✅ Serving 50+ schools
-- ✅ Used by 10,000+ students
-- ✅ 98% parent satisfaction rate
-- ✅ Reduced administrative workload by 60%
 
 ---
 
@@ -295,12 +266,6 @@
 - **Database:** PostgreSQL, Elasticsearch, Redis Cache, SQLite (dev)
 - **Features:** Real-time notifications, Recommendation engine, Analytics, Payment processing
 
-**Impact:**
-- ✅ 1000+ registered vendors
-- ✅ 50,000+ products listed
-- ✅ 100,000+ monthly visitors
-- ✅ $1M+ in GMV
-- ✅ 4.5/5 average rating
 
 ---
 
@@ -314,13 +279,6 @@
 - **Backend:** Python, FastAPI, LangChain, Pinecone Vector DB, OpenAI API
 - **Database:** MongoDB, Redis, Pinecone
 - **Features:** Document processing, Semantic search, Conversation memory, Streaming responses
-
-**Impact:**
-- ✅ 10,000+ monthly active users
-- ✅ 95% accuracy in document retrieval
-- ✅ 50% reduction in support tickets
-- ✅ 4.8/5 user satisfaction rating
-
 ---
 
 ### **Ride-Hailing Mobile App** 🚗
@@ -332,13 +290,6 @@
 - **Mobile:** React Native, Expo, Mapbox, WebRTC
 - **Backend:** Node.js, Express, Socket.io, MongoDB, Redis
 - **Features:** Real-time tracking, Payment processing, Trip history, Driver verification
-
-**Impact:**
-- ✅ 5,000+ active users
-- ✅ 10,000+ rides completed
-- ✅ 4.7/5 average rating
-- ✅ 30% monthly growth rate
-
 ---
 
 ## 🛠️ **Technical Toolkit**
@@ -489,16 +440,7 @@ I build software with a long-term mindset — focusing not only on solving today
 - 🏆 **30% Performance Improvement** – Optimized application loading times
 - 🏆 **40% Faster Deployments** – Implemented CI/CD pipelines
 - 🏆 **50% Reduction in Bugs** – Enhanced testing strategies
-- 🏆 **500+ Users Served** – Production applications with real users
-- 🏆 **$2M+ Client Revenue** – Generated through developed solutions
 - 🏆 **15+ Successful Projects** – Delivered across various domains
-
-### Open Source Contributions
-- 📦 Contributed to 10+ open source projects
-- ⭐ 200+ GitHub stars on personal projects
-- 🐛 Fixed 50+ bugs in popular repositories
-- 📝 Published 20+ technical articles
-- 🎤 Spoke at 5+ tech conferences
 
 ### Community Involvement
 - 👨‍🏫 **Tech Mentor** – Mentoring aspiring developers online
