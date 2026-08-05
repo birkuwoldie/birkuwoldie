@@ -361,7 +361,8 @@
 
 | **Institution** | **Degree/Program** | **Duration** | **Location** | 
 |-----------------|-------------------|--------------|--------------|------------------|
-| **National Institute of Technology (NIT) Andhra Pradesh** | Bachelor of Technology in Electronics and Communication Engineering | 2019 – 2023 | Andhra Pradesh, India | CGPA: 8.5/10, Dean's |
+| **National Institute of Technology (NIT) Andhra Pradesh** | Bachelor of Technology in Electronics and Communication Engineering | 2019 – 2023 | Andhra Pradesh, India |
+
 | **Addis Ababa Science and Technology University (AASTU)** | Electromechanical Engineering (Transfer) | 2017 – 2019 | Addis Ababa, Ethiopia |
 
 ### **🎖️ Academic Honors & Achievements**
@@ -442,7 +443,6 @@ I build software with a long-term mindset — focusing not only on solving today
 - 👨‍🏫 **Tech Mentor** – Mentoring aspiring developers online
 - 📝 **Technical Writer** – Regular blog posts on dev.to
 - 🎤 **Speaker** – Presented at local and international events
-- 🏗️ **Hackathon Organizer** – Organized 3 hackathons
 - 👥 **Community Builder** – Founded local developer meetup
 
 ---
