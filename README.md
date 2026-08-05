@@ -360,7 +360,9 @@
 ### **🏛️ Academic Background**
 
 | **Institution** | **Degree/Program** | **Duration** | **Location** | 
+
 |-----------------|-------------------|--------------|--------------|------------------|
+
 | **National Institute of Technology (NIT) Andhra Pradesh** | Bachelor of Technology in Electronics and Communication Engineering | 2019 – 2023 | Andhra Pradesh, India |
 
 | **Addis Ababa Science and Technology University (AASTU)** | Electromechanical Engineering (Transfer) | 2017 – 2019 | Addis Ababa, Ethiopia |
